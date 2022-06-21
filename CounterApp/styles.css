@@ -1,0 +1,33 @@
+.button-container{
+    margin:auto;
+    width: 50%;
+    border: 3px solid rgb(0, 58, 36);
+    padding: 10px;
+    text-align: center;
+}
+h1{
+    margin: auto;
+    text-align: center;
+}
+#value{
+    margin: auto;
+    padding:var(10px);
+    text-align: center;
+}
+.btn{
+    outline: 2px outset #1C6EA4;
+    outline-offset: 0px;
+}
+.btn-decrease{
+    margin-right: 10%;
+    margin-left: 10%;
+
+}
+.btn-increase{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.btn-reset{
+    margin-right: 10%;
+    margin-left: 10%;
+}
